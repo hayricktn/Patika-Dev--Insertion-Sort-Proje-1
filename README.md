@@ -1,2 +1,2 @@
-# Patika-Dev--Insertion-Sort-Proje-1
-algoritma ödev
+# Patika-Dev-algoritma ödevi
+
